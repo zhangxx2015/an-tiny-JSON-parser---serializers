@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 /// <summary>
-/// An tiny JSON parser & serializers, by QQ:20437023
+/// An tiny JSON parser & serializers, by QQ:20437023 liaisonme@hotmail.com
 /// MIT License Copyright (c) 2017 20437023@qq.com
 /// 
 /// 一个微型的 JSON 解析器 & 序列化器
